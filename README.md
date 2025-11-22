@@ -65,7 +65,7 @@ More updates and features coming soon!
 
 ## 🌐 Portfolio Website
 You can explore my projects, case studies, and tools here:  
-👉 **[https://your-portfolio-link.com](https://www.sdtsgroup.org/portfolio.html)**
+👉 **[https://sdtsgroup.org](https://www.sdtsgroup.org/portfolio.html)**
 
 ---
 
