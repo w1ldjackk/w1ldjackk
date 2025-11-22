@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Jack — w1ldjackk
+## 👋 Hi, I'm Jack — w1ldjackk
 
 ### 🚀 Back-End Developer | MIS Executive | Web Developer  
 **Back-End Developer @ SDTS Group**  
