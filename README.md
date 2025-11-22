@@ -39,6 +39,7 @@
 
 ## 📫 Connect With Me
 - **LinkedIn:** [w1ldjackk](https://www.linkedin.com/in/w1ldjackk)
+- **Instagram:** [w1ldjackk](https://www.instagram.com/w1ldjackk)
 - **GitHub:** [github.com/w1ldjackk](https://github.com/w1ldjackk)
 
 ---
