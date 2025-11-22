@@ -63,6 +63,22 @@ More updates and features coming soon!
 
 ---
 
+## 🌐 Portfolio Website
+You can explore my projects, case studies, and tools here:  
+👉 **[https://your-portfolio-link.com](https://www.sdtsgroup.org/portfolio.html)**
+
+---
+
+## ☕ Buy Me a Coffee
+If you appreciate my work or want to support future projects:  
+<p>
+  <a href="https://buymeacoffee.com/yourusername">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me a Coffee" height="45" />
+  </a>
+</p>
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** [w1ldjackk](https://www.linkedin.com/in/w1ldjackk)
 - **Instagram:** [w1ldjackk](https://www.instagram.com/w1ldjackk)
