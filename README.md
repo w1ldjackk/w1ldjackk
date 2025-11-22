@@ -42,6 +42,19 @@ More updates and features coming soon!
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w1ldjackk&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=w1ldjackk&theme=tokyonight&hide_border=false" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ldjackk&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
 ## 📊 What I’m Working On
 - Building scalable back-end systems  
 - Optimizing MIS workflows and automation  
