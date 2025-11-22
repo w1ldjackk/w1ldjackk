@@ -29,6 +29,19 @@
 
 ---
 
+## 🆕 Recent Work
+### 📱 Affordable Data Bundle Platform (Ghana)
+I recently built a **system/platform that allows users in Ghana to buy data bundles at very affordable prices**.  
+The platform is designed to be:
+- Fast  
+- Secure  
+- User-friendly  
+- Integrated with API and mobile money payment  
+
+More updates and features coming soon!
+
+---
+
 ## 📊 What I’m Working On
 - Building scalable back-end systems  
 - Optimizing MIS workflows and automation  
