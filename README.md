@@ -23,7 +23,7 @@
 - Database Management  
 
 ### 🌐 Web Development
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript / TypeScript
 - Responsive Web Design  
 - CMS Customization  
 
